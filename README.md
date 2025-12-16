@@ -10,3 +10,8 @@ I am doing branch mergin
  This is added via local repository`
 This is added via remote repository
 This is added via local repository
+=======
+ created feature c as main branch
+ new branch adding.
+This is added via remote repository
+This is added after conflict 
